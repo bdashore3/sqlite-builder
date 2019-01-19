@@ -1,6 +1,6 @@
 Overview
 --------
-Makefile and Android.mk necessary to compile sqlite3 for Android.
+Makefile and Android.mk necessary to compile sqlite3 for Android. Created by EXALAB
 
 Requirements
 ------------
